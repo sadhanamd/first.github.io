@@ -3,6 +3,8 @@ header
 	color: brown;
 	font-size: 75px;
 	text-indent: 550px;
-	text-decoration-style: wavy;
-	text-decoration-line: wavy; 
+	text-decoration-style: double;
+	text-decoration-line: underline;
+	font:pristina;
+
 }
