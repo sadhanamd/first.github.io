@@ -13,10 +13,10 @@ header
 	background-image: url(pic.jpg.jpg);
 	position: center;
 	background-position: center;
-	widows: 300px;
-	height: 250px;
+	width: 10%;
+	height: 20%;
 	border: 2px solid black;
-	padding: 10px;
+	
 
 
 }
