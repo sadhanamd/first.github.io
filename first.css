@@ -11,6 +11,9 @@ header
 
 body{
 	background-image: url(pic.jpg.jpg);
-	background-size: 300px 75px;
+	background-size: 300px 100px;
+	border: 2px solid black;
+	padding: 10px;
+	
 
 }
