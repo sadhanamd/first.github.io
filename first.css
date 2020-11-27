@@ -9,15 +9,9 @@ header
 
 }
 
-.home{
-	background-image: url(pic.jpg.jpg);
-	position: center;
-	background-position: center;
-	width: 100%;
-	height: 100%;
-	border: 2px solid black;
+
 	
-}
+
 .pic{
 	padding-bottom: 550px;
 	padding-top: 700px;
