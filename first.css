@@ -3,9 +3,16 @@ header
 	color: brown;
 	font-size: 75px;
 	text-indent: 550px;
-	text-decoration-style: double;
+	text-decoration-style: solid;
 	text-decoration-line: underline;
 	font-style: oblique;
 
+}
+head{
+	background-color: inherit;
+}
+p.first{
+	color: pink;
+	
 }
 
